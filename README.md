@@ -1,8 +1,8 @@
-# Raw flight data analysis by power bi
+# Raw flight data visualization by using powerBI tool.
 
-Welcome to the project! Here you can find important documentation.
+## Welcome to the project! Here you can find important information from different data combination visualization point of viiew.
 
-## Documentation
+### Documentation
 
 
 - [Download PDF](./file/BigDataGroup.pdf)
